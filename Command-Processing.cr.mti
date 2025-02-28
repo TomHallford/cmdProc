@@ -1,0 +1,102 @@
+{C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/UART_RX_CTRL.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/UART_RX_CTRL.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity UART_RX_CTRL
+-- Compiling architecture RCVR of UART_RX_CTRL
+
+} {} {}} {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/dataConsumeWrapper.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/dataConsumeWrapper.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package common_pack
+-- Compiling entity dataConsume
+-- Compiling architecture Behavioral of dataConsume
+
+} {} {}} {C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/tb_cmd2dataInterface.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/tb_cmd2dataInterface.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package common_pack
+-- Compiling entity TB_cmd2dataInterface
+-- Compiling architecture TB of TB_cmd2dataInterface
+** Warning: C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/tb_cmd2dataInterface.vhd(26): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/tb_cmd2dataInterface.vhd(71): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/tb_cmd2dataInterface.vhd(73): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/tb_cmd2dataInterface.vhd(81): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/tb_cmd2dataInterface.vhd(83): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/tb_cmd2dataInterface.vhd(85): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/tb_cmd2dataInterface.vhd(87): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/tb_cmd2dataInterface.vhd(89): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/cmdProc.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/cmdProc.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package common_pack
+-- Compiling entity cmdProc
+-- Compiling architecture Structure of cmdProc
+
+} {} {}} {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/UART_TX_CTRL.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/UART_TX_CTRL.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity UART_TX_CTRL
+-- Compiling architecture Behavioral of UART_TX_CTRL
+
+} {} {}} {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/common_pack.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/common_pack.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package common_pack
+
+} {} {}} {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/dataConsume_synthesised_signed.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/dataConsume_synthesised_signed.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/dataConsume_synthesised_signed.vhd(15): (vcom-1598) Library "unisim" not found.
+** Error: C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/dataConsume_synthesised_signed.vhd(16): (vcom-1136) Unknown identifier "UNISIM".
+** Error: C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/dataConsume_synthesised_signed.vhd(17): VHDL Compiler exiting
+
+} {6.0 9.0} {}} {C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/cmd2dataInterface.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Engineering/Electrical and Electronic Practice/peak_detector/Model-Sim/cmd2dataInterface.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package common_pack
+-- Compiling entity cmd2dataInterface
+-- Compiling architecture behav of cmd2dataInterface
+
+} {} {}} {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/dataGen.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/dataGen.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package common_pack
+-- Compiling entity dataGen
+-- Compiling architecture behav of dataGen
+
+} {} {}} {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/tb_CmdProcessor_Interim.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/tb_CmdProcessor_Interim.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package common_pack
+** Error: C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/tb_CmdProcessor_Interim.vhd(43): (vcom-1598) Library "unisim" not found.
+** Error: C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/tb_CmdProcessor_Interim.vhd(44): (vcom-1136) Unknown identifier "UNISIM".
+** Error: C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/tb_CmdProcessor_Interim.vhd(45): (vcom-1136) Unknown identifier "UNISIM".
+** Error: C:/Engineering/Electrical and Electronic Practice/peak_detector/Sources if needed/tb_CmdProcessor_Interim.vhd(48): VHDL Compiler exiting
+
+} {8.0 12.0} {}}
